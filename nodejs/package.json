@@ -1,6 +1,6 @@
 {
   "name": "aurora-aws-mongoose-layer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Aurora mongoose layer for amazon web services",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/MMurlyka/aurora-aws-mongoose-layer#readme",
   "dependencies": {
-    "mongoose": "^5.11.19"
+    "mongoose": "^5.11.15"
   }
 }
